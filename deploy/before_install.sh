@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo service nginx stop
 echo "nignx stop"
 git pull origin master
